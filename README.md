@@ -173,7 +173,7 @@ export default tasksSlice.reducer;
 
 #### `src/store/store.js`
 
-This file configures the Redux store, integrating the `tasksSlice` and `redux-persist` for local storage persistence.
+This file configures the Redux store, integrate the `tasksSlice` and `redux-persist` for local storage persistence.
 
 ```javascript
 import { configureStore, combineReducers } from '@reduxjs/toolkit';

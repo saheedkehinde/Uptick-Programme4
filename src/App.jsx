@@ -153,7 +153,7 @@ function App() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-2 text-sm text-gray-600">
               <TrendingUp className="h-4 w-4" />
-              <span>Built with Redux Toolkit & React</span>
+              <span>Built by Saheed with Redux Toolkit & React</span>
             </div>
             <div className="text-sm text-gray-500">
               © 2025 TaskFlow. Boost your productivity.
